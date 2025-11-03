@@ -129,5 +129,4 @@ You must run both the backend and frontend in two separate terminals.
 
 You can now access the application in your browser at `http://localhost:3000`.
 =======
-# Here are your Instructions
->>>>>>> bd739ec (Initial commit: Added full project code)
+
